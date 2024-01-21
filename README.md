@@ -10,7 +10,7 @@ Graduated from Nottingham highschool (2 years early :3)
 
 ## Skills
 
-I know a multitude of programming languages
+### I know a multitude of programming languages
 - C
 - C++
 - Assembly
@@ -24,9 +24,9 @@ I know a multitude of programming languages
 - UIUA
 - BQN
 
-I am a talented pentester, reverse engineer, malware analyst, cryptographer, and cryptanalyst.
+### I am a talented pentester, reverse engineer, malware analyst, cryptographer, and cryptanalyst.
 
-I am currently learning about
+### I am currently learning about
 - Lattice Based Crptography
 - Isogeny Based Cryptography
 - The Application of Neural Networks in Acoustic Cryptanalysis
