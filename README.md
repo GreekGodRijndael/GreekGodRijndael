@@ -1,16 +1,32 @@
-### Hi there 👋
+# Wsg
 
-<!--
-**GreekGodRijndael/GreekGodRijndael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im a genius
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+17 years old
+Attending Columbia University 
+Graduated from Nottingham highschool (2 years early :3)
+
+## Skills
+
+I know a multitude of programming languages
+- C
+- C++
+- Assembly
+- Rust
+- Java
+- Julia
+- JavaScript
+- React
+- PHP
+- Python
+- UIUA
+- BQN
+
+I am a talented pentester, reverse engineer, malware analyst, cryptographer, and cryptanalyst.
+
+I am currently learning about
+- Lattice Based Crptography
+- Isogeny Based Cryptography
+- The Application of Neural Networks in Acoustic Cryptanalysis
